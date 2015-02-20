@@ -50,7 +50,10 @@ div.parallax > img{
 footer.page-footer {
   margin: 0;
 }
-
+a.light{
+  color: #393731 !important;
+  text-decoration: underline;
+}
 #header-tagline{
   color: #393731;
 }
