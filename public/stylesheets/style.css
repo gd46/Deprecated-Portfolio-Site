@@ -11,8 +11,16 @@ nav .brand-logo {
   color: #444;
 }
 
+a#logo-container{
+  font-size: 20px;
+}
+
 p {
   line-height: 2rem;
+}
+
+.card-reveal p{
+  font-size: 14px;
 }
 
 .button-collapse {
