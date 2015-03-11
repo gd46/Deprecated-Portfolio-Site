@@ -19,6 +19,9 @@ p {
   line-height: 2rem;
 }
 
+i{
+  color:black;
+}
 .card-reveal p{
   font-size: 14px;
 }
